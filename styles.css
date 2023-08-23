@@ -95,6 +95,7 @@ padding: 10px;
 background-color: #000;
 color: #fff;
     margin-right: 0px; margin-left: 0px;
+    text-decoration: none;
 }
 
 .footer-container {
@@ -103,10 +104,12 @@ color: #fff;
 padding: 20px;
 text-align: center;
      margin-right: 0px; margin-left: 0px;
+    text-decoration: none;
 }
 
 .footer-contact p {
 margin-bottom: 5px;
+    text-decoration: none;
 }
 
 .footer-contact a {
