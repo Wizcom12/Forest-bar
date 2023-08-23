@@ -88,16 +88,13 @@ body, h1, h2, h3, p {
   }
   
   /* Style the footer */
-  footer {
-    text-align: center;
-    padding: 20px;
-    background-color: black;
-    color: #fff;
-      margin: auto;
-  }
-   footer p{margin-bottom: 5px;}
-   footer a {text-decoration: none;}
-
+ footer {
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
   /* ... (previous styles) ... */
 
 /* Style the drinks section */
